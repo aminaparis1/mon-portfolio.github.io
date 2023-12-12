@@ -1,0 +1,124 @@
+
+.main-column{
+    text-align: justify;
+    background-color: rgb(255, 255, 255)
+ 
+
+}
+th{
+    font-size: 200%;
+    font-family: Arial;
+
+}
+.body{
+    text-align: justify;
+}
+.ndf{
+    color: #498ae6;
+    text-transform: uppercase; 
+    font-family: 'Vina Sans', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+  }
+.Titre{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 1 rem;
+}
+.header{
+    grid-area: header;
+    padding: 20px;
+    background-color: rgb(175, 212, 231);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: Roboto;
+    font-size: 1rem;
+  }
+.infos{
+    columns: 2;
+    list-style-type: none;
+    padding: 0;
+  }
+td{
+    font-family: Arial;
+}
+
+
+img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+.left-column{
+    background-color: rgb(144, 189, 212);
+    float: left;
+    width: 25%;
+    height: 180vh;
+    font-family: Arial;
+    font-size: 110%;
+    grid-area: left-column;
+    padding: 25px;
+    color: white;
+      
+
+  }
+  .section{
+    margin-bottom: 1.5rem;
+  }
+  .skills{
+    list-style-type: none;
+    padding: 0;
+    font-size: 1.1rem;
+    letter-spacing: 1px;
+    margin: 0 0 1rem;
+  }
+  h2{
+    margin: 0 0 1rem;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
+
+.espace-entre-tableaux {
+    margin-bottom: 500px; 
+}
+p{
+    color: white;
+
+}
+.legende{
+    text-align: right;
+    margin-bottom: 1.5rem;
+}
+.g1{
+
+    border: 5px solid rgb(255, 255, 255);
+}
+h1{
+    color: rgb(0, 0, 0);
+}
+.legende{
+    text-align: left;
+    font-size: ;
+}
+
+
+.chrono{
+  width: 30%;
+}
+.name{
+  height: 75;
+}
+.diplome{
+  margin: auto;
+  text-align: justify;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 100%;
+}
+h1.header{
+  font-family: 'Vina Sans', sans-serif;
+}
+.amina{
+  color: white;
+}
+
